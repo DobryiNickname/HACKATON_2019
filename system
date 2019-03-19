@@ -1,0 +1,6 @@
+\begin{cases}
+	m \ddot x = W_x(y) - \tilde{F}_x(|\dot r|), \\
+	m \ddot y = W_y(y) - \tilde{F}_y(|\dot r|) - mg, \\
+	m \ddot z = W_z(y) - \tilde{F}_z(|\dot r|)
+\end{cases}
+
